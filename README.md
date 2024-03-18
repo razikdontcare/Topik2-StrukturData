@@ -1,6 +1,8 @@
 # Tugas Struktur Data
 Nama            : Abdurrazik (2308561083)
+
 Kelas / Prodi   : E / Informatika
+
 
 Jalankan program dengan `run.cmd`
 atau
