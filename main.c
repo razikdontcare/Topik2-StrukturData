@@ -24,7 +24,7 @@ void main()
         printf("|                                    |\n");
         printf("+------------------------------------+\n");
         printf("\n");
-        printf("  Pilih [1, 2, 3] : ");
+        printf(":: Pilih [1, 2, 3] : ");
         scanf("%d", &pilihan);
 
         switch (pilihan)
@@ -51,7 +51,6 @@ void main()
             printf("+-------------------------------------+\n");
             system("pause");
             closeDB();
-            exit(0);
             break;
         default:
             system("cls");
