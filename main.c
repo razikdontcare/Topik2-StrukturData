@@ -7,10 +7,8 @@
 
 void main()
 {
-
     system("cls");
     int pilihan;
-
     do
     {
 

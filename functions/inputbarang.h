@@ -65,8 +65,6 @@ void inputBarang()
 
         sqlite3_reset(stmt);
     }
-
     sqlite3_finalize(stmt);
-
     system("cls");
 }

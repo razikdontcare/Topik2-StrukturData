@@ -47,8 +47,10 @@ void stokBarang()
     }
     printf("+--------------------------------------------------+\n");
     printf("\n");
+
     system("pause");
     system("cls");
+
     sqlite3_finalize(stmt);
     sqlite3_close(db);
 }
