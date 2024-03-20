@@ -1,4 +1,4 @@
-#include "lib/defines.h"
+#include "defines.h"
 #include "functions/inputbarang.h"
 #include "functions/stokbarang.h"
 #include <stdio.h>

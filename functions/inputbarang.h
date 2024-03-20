@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "../lib/defines.h"
+#include "../defines.h"
 #include "../db/connection.h"
 #include "../db/sqlite3.h"
 
